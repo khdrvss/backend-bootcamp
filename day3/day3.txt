@@ -1,4 +1,0 @@
-name = input('enter ur name nigga: ')
-age = int(input('enter ur age nigga: '))
-
-print ('hello', name, 'next year ur age is', age+1)
